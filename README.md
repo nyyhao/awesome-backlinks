@@ -445,6 +445,7 @@ Requirements, step-by-step submit guides and filters for every site are on [ever
 | [Tracxn](https://tracxn.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/tracxn?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [Startupxplore](https://startupxplore.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/startupxplore?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
 | [VentureRadar](https://www.ventureradar.com/) | — | — | — | — | [Guide](https://everybacklink.com/sites/ventureradar?utm_source=github&utm_medium=readme&utm_campaign=awesome-backlinks) |
+| [SaaSCity](https://saascity.io/) | Freemium | — | — | — | [Submit](https://saascity.io/submit) |
 
 ## Community
 
